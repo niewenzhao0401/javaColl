@@ -21,6 +21,7 @@ public class List {
         c.remove(2);
         System.out.println(c);
         System.out.println("as");
+        System.out.println("as");
         System.out.println(c.contains(1));
     }
 }
