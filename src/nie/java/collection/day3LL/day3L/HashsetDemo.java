@@ -1,6 +1,5 @@
 package nie.java.collection.day3LL.day3L;
 
-import java.util.HashSet;
 import java.util.TreeSet;
 
 public class HashsetDemo {

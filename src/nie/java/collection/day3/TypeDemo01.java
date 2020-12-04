@@ -1,7 +1,6 @@
 package nie.java.collection.day3;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 /*
 泛型

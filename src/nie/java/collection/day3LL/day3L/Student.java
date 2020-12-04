@@ -1,7 +1,5 @@
 package nie.java.collection.day3LL.day3L;
 
-import java.util.Objects;
-
 public abstract class Student {
     private int num;
     private String nume;

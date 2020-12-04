@@ -1,7 +1,6 @@
 package nie.java.collection.day2;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 
 public class ArraylistDemo {
     public static void main(String[] args) {

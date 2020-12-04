@@ -2,7 +2,6 @@ package nie.java.collection.day1;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.LinkedList;
 
 
 /*
@@ -20,6 +19,7 @@ public class List {
         System.out.println(c);
         c.remove(2);
         System.out.println(c);
+        System.out.println("as");
         System.out.println("as");
         System.out.println("as");
         System.out.println("as");
